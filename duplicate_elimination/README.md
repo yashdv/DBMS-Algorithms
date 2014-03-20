@@ -11,7 +11,7 @@ make
 
 **********EXECUTING************************************************************
 
-./a.out <Flag> <BufferSize(MB)> <M> <input file>
+./a.out Flag BufferSize(MB) M input file
 
 // Flag = [ 1 => B+ Tree            ]
           [ 2 => Extensible Hashing ]

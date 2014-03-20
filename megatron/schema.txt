@@ -1,0 +1,13 @@
+airports#airports.csv#7
+ID#longlongint
+TYPE#string
+NAME#string
+LATITUDE#longlongint
+LONGITUDE#longlongint
+COUNTRY#string
+REGION#string
+countries#countries.csv#4
+ID#longlongint
+CODE#string
+NAME#string
+CONTINENT#string

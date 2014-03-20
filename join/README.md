@@ -11,6 +11,6 @@ make
 
 __________EXECUTING____________________________________________________________
 
-./a.out <R> <S> <sort/hash> <M>
+./a.out R S sort_hash M
 
 NOTE: Make sure to create 2 folders named "tempr" and "temps" at the location of code execution.

@@ -1,7 +1,7 @@
 Duplicate Elimination in a table of database records
 ====================================================
 
-B+ Tree and Extensible Hashing are used to elminate duplicates.
+B+ Tree and Extensible Hashing are used to elminate duplicates.  
 Generate the dataset using gen*.cpp.
 
 
@@ -12,10 +12,6 @@ make
 **********EXECUTING************************************************************
 
 ./a.out <Flag> <BufferSize(MB)> <M> <input file>
-
-			OR
-
-./a.out <Flag> <BufferSize(MB)> <M> <input file> > <output file>
 
 // Flag = [ 1 => B+ Tree            ]
           [ 2 => Extensible Hashing ]
